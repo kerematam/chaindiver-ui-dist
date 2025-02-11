@@ -1,8 +1,8 @@
 # Chain Diver
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fchaindiver.com)](https://chaindiver.io)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fchaindiver.com)](https://chaindiver.com)
 
-This repository contains the UI distribution code for [Chain Diver](https://chaindiver.io) - a blockchain data analytics platform. Built as a Single Page Application with React, it enables users to explore blockchain data through natural language queries, execute SQL statements, and generate REST APIs.
+This repository contains the UI distribution code for [Chain Diver](https://chaindiver.com) - a blockchain data analytics platform. Built as a Single Page Application with React, it enables users to explore blockchain data through natural language queries, execute SQL statements, and generate REST APIs.
 
 ## 🚀 Features
 - **SQL Query Generation** based on natural language input.
